@@ -1,6 +1,6 @@
-- 👋 Hi, 
-this is an official Account of IT-Systemhaus @ Bundesagentur für Arbeit / IT-Provider of the German Federal Agency for unemployed People.
-For more Information watch our Profile.
+- 👋 Hi, this is an official Account of IT-Systemhaus @ Bundesagentur für Arbeit / IT-Provider of Bundesagentur für Arbeit.
+Bundesagentur für Arbeit (Federal Employment Agency, BA) is a German federal agency in the area of responsibility of the Federal Ministry for Labour and Social Affairs
+
  
 - 📫 How to reach me / responsible for this Account ralf.ernst@arbeitsagentur.de 
 
